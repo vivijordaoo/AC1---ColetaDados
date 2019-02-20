@@ -10,12 +10,24 @@
 </head>
 <body>
     <h2>Aula de Formulários</h2>
-    <form action="" method="POST">
+    <label>Escolha a UF: </label><br/>
+                <select name="UF">
+                <option name="SP">São Paulo</option>
+                <option name="RJ">Rio de Janeiro</option>            
+            </select><br/>
+        <label>Selecione a Disciplina: </label><br/>
+        <input type = "checkbox" name="disciplinas" value = "DevOps">DevOps<br/>
+        <label>Escolha uma Disciplina: </label><br/>
+        <input type = "radio" name="disciplinas" value = "LP2">LP2<br/>
+        <input type = "radio" name="disciplinas" value = "SQL">SQL<br/>
+        <label>Site: </label><br/> <input type="URL"><br/>
+        <label>E-mail: </label><br/><input type="email" name="email" id="teste"><br/>
         <label>Nome do Usuário: </label><br/>
         <input type="text" 
                 maxlenght="10"  
                 name="user"              /><br/>
         <label>Senha: </label><br/>
+        <form action="" method="POST">
         <input type="password" maxlenght="3" name="pass"/>
         <br/>
         <input type="submit" value = "Salvar"/>
