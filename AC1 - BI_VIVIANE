@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Business Intelligence</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css">
+    <script src="main.js"></script>
+
+    <style>
+            #site{
+                width: 800px;
+                margin: 0px auto;
+               
+            }
+            h1,h2,h3,h4,p{
+                text-align: center;
+            }
+            </style>
+</head>
+
+<body background ="background-pine-texture-82256.jpg">
+        <div id="site">
+            <a href="formulario.html"> Faça seu cadastro </a> 
+<h2> O que é Business Intelligence?</h2>
+<img src="bi.PNG">
+<p>Muita gente acha que sabe o que é BI, mas na maioria das vezes isso não é verdade.</p>
+<p>BI não é ferramenta. Não é abrir uma ferramenta de visualização ou integração, não se resume ao uso de softwares como Tableau, Pentaho, QlikView, Power BI ou qualquer outro que estiver na moda. Vai muito além disso.</p>
+<p>Essas ferramentas foram construídas com base nos conceitos e técnicas de BI, mas para você conseguir tirar proveito de tudo que elas oferecem, vai precisar entender que conceito é esse.</p>
+<p>Basicamente, você precisa começar do início e entender 3 coisas:</p>
+<p>BI nada mais é que um processo. Um conjunto de técnicas e conceitos. Trata de entregar a informação certa para a pessoa certa no tempo certo.</p>
+<p>Esse processo passa por coleta, organização e análise dos dados, elaboração de relatórios ou dashboards e todo o acompanhamento e atualização. Esses são os fundamentos, a base para entender como tudo funciona.</p>
+<p>Entendendo o conceito, você estará com o mindset de tomada de decisão orientada a dados e evidências.</p>
+
+<h2>Para que serve o BI?</h2>
+BI dá suporte à tomada de decisão. É para você poder olhar uma tela com um dashboard e em 5 segundos ter a visão completa da empresa, tendo a capacidade de tomar uma decisão de negócio inteligente, com base em fatos.</p>
+
+<p>É importante entender que ninguém mais toma decisões com base em achismos (ou que pelo menos não deveria).</p>
+<p>O BI mede o desempenho passado para prever o futuro. Pensa assim: você não faz cirurgia de coração com um médico sem ter evidências de que ele é um bom profissional, ou sem alguns dados como sua formação e o sucesso de suas cirurgias passadas.</p>
+
+ 
+
+<h2>Como praticar BI?</h2>
+<p>O primeiro passo é a coleta e organização dos dados. Pegar eles do lugar onde estão e organizar de forma que façam sentido juntos.</p>
+<p>Depois vem a fase de análise e visualização. Você apresenta os dados de uma forma visual que permita o seu entendimento. Essas análises são compartilhadas com quem precisa delas, que então parte para a análise.</p>
+<p>E para finalizar, o monitoramento. Essa é a parte onde você acompanha a evolução de tudo que está acontecendo baseado naquela análise ou coleta inicial.</p>
+<p>O monitoramento serve para dar suporte à tomada de decisões, que é o core do BI.</p>
+<p>Pensa naquelas metas de início de ano, quando você define que vai emagrecer 10kg até o final do ano. Considerando que você já tenha começado, analisar a perda de peso do passado possibilita prever quanto tempo levaria para perder os 10kg no ritmo atual, identificando se vai ser possível atingir a meta em um ano.</p>
+<p>Depois que você analisou o desempenho passado, pode planejar o futuro. Se não for possível perder os 10kg com o método atual, você consegue replanejar baseado nos dados que tem. Então basta fazer o acompanhamento para ver se a meta está sendo alcançada.</p>
+<p>E tudo isso sem ferramentas. BI não é TI, é um conceito e um processo. No momento que você entende esse processo, entende o que é BI, não importa a ferramenta, você consegue aplicar até mesmo no Excel.</p>
+</div>
+</body>
+</html>
